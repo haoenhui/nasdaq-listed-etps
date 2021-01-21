@@ -154,8 +154,8 @@ EMIF,iShares Emerging Markets Infrastructure ETF,ETF,VIRT
 EMXC,iShares MSCI Emerging Markets ex China,ETF,JSCA
 EMXF,iShares ESG Advanced MSCI EM,ETF,FLTU
 ENZL,iShares MSCI New Zealand Capped ETF,ETF,VIRT
-EQRR,ProShares Equities for Rising Rates,ETF,IMCC
 EQRR,ProShares Equities for Rising Rates,ETF,SGAS
+EQRR,ProShares Equities for Rising Rates,ETF,IMCC
 ESGD,iShares Trust iShares MSCI EAFE ESG Select ETF,ETF,JSCA
 ESGE,"iShares, Inc. iShares MSCI EM ESG Select ETF",ETF,JSCA
 ESGU,iShares MSCI USA ESG Optimized ETF,ETF,JSCA
@@ -168,8 +168,8 @@ EVSTC,Eaton Vance NextShares Trust Eaton Vance Stock NextShares,NextShares,None
 EWEB,Global X Emerging Markets Internet & E-commerce,ETF,SSUS
 EWJE,iShares MSCI Japan Equal Weighted,ETF,CDRG
 EWJV,iShares MSCI Japan Value,ETF,CDRG
-EWZS,iShares MSCI Brazil Small-Cap ETF,ETF,CDRG
 EWZS,iShares MSCI Brazil Small-Cap ETF,ETF,VIRT
+EWZS,iShares MSCI Brazil Small-Cap ETF,ETF,CDRG
 FAAR,First Trust Exchange-Traded Fund VII First Trust Alternative Absolute Return Strategy ETF,ETF (Active),JSCA
 FAB,First Trust Multi Cap Value AlphaDEX Fund,ETF,SSUS
 FAD,First Trust Multi Cap Growth AlphaDEX Fund,ETF,SSUS
@@ -331,8 +331,8 @@ PDEV,Principal U.S. Large-Cap Multi-Factor Core Index,ETF,GTSZ
 PDP,DWA Momentum Portfolio,ETF,VIRT
 PETCZ,Gabelli Pet Parent Fund,NextShares,None
 PEY,High Yield Equity Dividend Achievers Portfolio,ETF,SSUS
-PEZ,DWA Consumer Cyclicals Momentum Portfolio,ETF,VIRT
 PEZ,DWA Consumer Cyclicals Momentum Portfolio,ETF,SSUS
+PEZ,DWA Consumer Cyclicals Momentum Portfolio,ETF,VIRT
 PFF,iShares U.S. Preferred Stock,ETF,CDRG
 PFI,DWA Financial Momentum Portfolio,ETF,VIRT
 PFI,DWA Financial Momentum Portfolio,ETF,IMCC
@@ -347,8 +347,8 @@ PKW,BuyBack Achievers Portfolio,ETF,XGWD
 PLC,Principal U.S. Small-MidCap Multi-Factor Core Index,ETF,JSCA
 PLW,1-30 Laddered Treasury Portfolio,ETF,CDRG
 PMOM,Principal Sustainable Momentum Index,ETF,GTSZ
-PNQI,PowerShares Nasdaq Internet Portfolio,ETF,SSUS
 PNQI,PowerShares Nasdaq Internet Portfolio,ETF,IMCC
+PNQI,PowerShares Nasdaq Internet Portfolio,ETF,SSUS
 POTX,Global X Cannabis,ETF,GTSZ
 PPH,VanEck Vectors Pharmaceutical ETF,ETF,IMCC
 PPH,VanEck Vectors Pharmaceutical ETF,ETF,XGWD
@@ -361,10 +361,10 @@ PSCC,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer
 PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,VIRT
 PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,XGWD
 PSCE,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Energy Portfolio,ETF,VIRT
-PSCF,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Financials Portfolio,ETF,XGWD
 PSCF,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Financials Portfolio,ETF,VIRT
-PSCH,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Health Care Portfolio,ETF,VIRT
+PSCF,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Financials Portfolio,ETF,XGWD
 PSCH,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Health Care Portfolio,ETF,XGWD
+PSCH,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Health Care Portfolio,ETF,VIRT
 PSCI,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Industrials Portfolio,ETF,VIRT
 PSCI,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Industrials Portfolio,ETF,XGWD
 PSCM,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Materials Portfolio,ETF,VIRT
@@ -377,8 +377,8 @@ PSET,Principal Exchange-Traded Funds Principal Price Setters Index ETF,ETF,VIRT
 PSL,DWA Consumer Staples Momentum Portfolio,ETF,XGWD
 PSL,DWA Consumer Staples Momentum Portfolio,ETF,IMCC
 PSM,Principal International Multi-Factor Core Index,ETF,GTSZ
-PTF,DWA Technology Momentum Portfolio,ETF,IMCC
 PTF,DWA Technology Momentum Portfolio,ETF,VIRT
+PTF,DWA Technology Momentum Portfolio,ETF,IMCC
 PTH,DWA Healthcare Momentum Portfolio,ETF,XGWD
 PUI,DWA Utilities Momentum Portfolio,ETF,VIRT
 PUI,DWA Utilities Momentum Portfolio,ETF,IMCC
@@ -425,6 +425,7 @@ SHLD,VictoryShares Protect America,ETF,RBCD
 SHV,iShares Short Treasury Bond,ETF,JSCA
 SHY,iShares 1-3 Year Treasury Bond,ETF,JSCA
 SKOR,FlexShares Trust FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,JSCA
+SKYU,ProShares Ultra Nasdaq Cloud Computing,ETF,VIRT
 SKYY,First Trust ISE Cloud Computing Index Fund,ETF,CDRG
 SLIM,Janus Detroit Street Trust The Obesity ETF,ETF,VIRT
 SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,ETF,JSCA
@@ -456,6 +457,7 @@ TVIZ,VelocityShares Daily 2x VIX Medium Term ETN,ETN,VIRT
 UAE,iShares Trust iShares MSCI UAE Capped ETF,ETF,CDRG
 UBIO,ProShares Trust Proshares UltraPro Nasdaq Biotechnology,ETF,VIRT
 UBIO,ProShares Trust Proshares UltraPro Nasdaq Biotechnology,ETF,XGWD
+UCYB,ProShares Ultra Nasdaq Cybersecurity,ETF,VIRT
 UFO,Virtu Americas LLC,ETF,VIRT
 UGLD,VelocityShares 3x Long Gold ETN,ETN,VIRT
 USIG,iShares U.S. Credit Bond,ETF (Active),JSCA
