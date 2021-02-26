@@ -381,8 +381,8 @@ PSM,Principal International Multi-Factor Core Index,ETF,GTSZ
 PTF,DWA Technology Momentum Portfolio,ETF,VIRT
 PTF,DWA Technology Momentum Portfolio,ETF,IMCC
 PTH,DWA Healthcare Momentum Portfolio,ETF,XGWD
-PUI,DWA Utilities Momentum Portfolio,ETF,VIRT
 PUI,DWA Utilities Momentum Portfolio,ETF,IMCC
+PUI,DWA Utilities Momentum Portfolio,ETF,VIRT
 PVAL,Principal Contrarian Value Index,ETF,GTSZ
 PXI,DWA Energy Momentum Portfolio,ETF,XGWD
 PXI,DWA Energy Momentum Portfolio,ETF,SSUS
@@ -404,6 +404,7 @@ QTEC,First Trust NASDAQ-100- Technology Index Fund,ETF,RBCD
 QYLD,Recon Capital Series Trust Recon Capital NASDAQ-100 Covered Call ETF,ETF,VIRT
 QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,ETF,SSUS
 RDVY,First Trust Exchange-Traded Fund VI First Trust NASDAQ Rising Dividend Achievers ETF,ETF,RBCD
+REIT,APLS Active REIT,ETF,GTSZ
 RFAP,First Trust Exchange-Traded Fund III First Trust RiverFront Dynamic Asia Pacific ETF,ETF (Active),SSUS
 RFDI,First Trust Exchange-Traded Fund III First Trust RiverFront Dynamic Developed International ETF,ETF (Active),JSCA
 RFEM,First Trust Exchange-Traded Fund III First Trust RiverFront Dynamic Emerging Markets ETF,ETF (Active),JSCA
