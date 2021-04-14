@@ -100,6 +100,7 @@ CSML,IQ Chaikin U.S. Small-Cap,ETF,GTSZ
 CTEC,Global X CleanTech,ETF,GTSZ
 CXSE,WisdomTree Trust WisdomTree China ex-State-Owned Enterprises Fund,ETF,JSCA
 DALI,First Trust Dorsey Wright DALI 1,ETF,CDRG
+DAPP,VanEck Vectors Digital Transformation,ETF,FLTU
 DAX,Recon Capital Series Trust Recon Capital DAX Germany ETF,ETF,VIRT
 DDIV,First Trust Exchange-Traded Fund VI First Trust RBA Quality Income ETF,ETF,CDRG
 DEMZ,DEMZ Political Contributions,ETF,VIRT
@@ -108,8 +109,8 @@ DFVL,iPath US Treasury 5 Year Bull ETN,ETN,None
 DFVS,iPath US Treasury 5 Year Bear ETN,ETN,None
 DGLD,VelocityShares 3x Inverse Gold ETN,ETN,VIRT
 DGRE,WisdomTree Trust WisdomTree Emerging Markets Quality Dividend Growth Fund,ETF,SSUS
-DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,ETF,IMCC
 DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,ETF,SSUS
+DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,ETF,IMCC
 DGRW,WisdomTree Trust WisdomTree U.S. Quality Dividend Growth Fund,ETF,SSUS
 DINT,Davis Select International,ETF,VIRT
 DLBL,iPath US Treasury Long Bond Bull ETN,ETN,None
@@ -382,8 +383,8 @@ PSM,Principal International Multi-Factor Core Index,ETF,GTSZ
 PTF,DWA Technology Momentum Portfolio,ETF,VIRT
 PTF,DWA Technology Momentum Portfolio,ETF,IMCC
 PTH,DWA Healthcare Momentum Portfolio,ETF,XGWD
-PUI,DWA Utilities Momentum Portfolio,ETF,IMCC
 PUI,DWA Utilities Momentum Portfolio,ETF,VIRT
+PUI,DWA Utilities Momentum Portfolio,ETF,IMCC
 PVAL,Principal Contrarian Value Index,ETF,GTSZ
 PXI,DWA Energy Momentum Portfolio,ETF,XGWD
 PXI,DWA Energy Momentum Portfolio,ETF,SSUS
