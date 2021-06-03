@@ -1,4 +1,5 @@
 Symbol,Fund,Type,DLP
+AADR,AdvisorShares Dorsey Wright ADR,ETF,VIRT
 AAXJ,iShares MSCI All Country Asia ex Japan ETF,ETF,VIRT
 AAXJ,iShares MSCI All Country Asia ex Japan ETF,ETF,CDRG
 ACT,AdvisorShares Vice,ETF,VIRT
@@ -22,8 +23,8 @@ BGRN,iShares Global Green Bond,ETF,JSCA
 BIB,ProShares Trust ProShares Ultra Nasdaq Biotechnology,ETF,VIRT
 BIB,ProShares Trust ProShares Ultra Nasdaq Biotechnology,ETF,IMCC
 BICK,First Trust Exchange-Traded Fund II First Trust BICK Index Fund,ETF,GTSZ
-BIS,ProShares Trust ProShares UltraShort Nasdaq Biotechnology,ETF,IMCC
 BIS,ProShares Trust ProShares UltraShort Nasdaq Biotechnology,ETF,VIRT
+BIS,ProShares Trust ProShares UltraShort Nasdaq Biotechnology,ETF,IMCC
 BJK,VanEck Vectors Gaming,ETF,VIRT
 BLCN,Reality Shares Nasdaq NextGen Economy,ETF,GTSZ
 BMLP,BMO Elkhorn DWA MLP Select Index,ETN,VIRT
@@ -106,8 +107,8 @@ DEMZ,DEMZ Political Contributions,ETF,VIRT
 DFVL,iPath US Treasury 5 Year Bull ETN,ETN,None
 DFVS,iPath US Treasury 5 Year Bear ETN,ETN,None
 DGRE,WisdomTree Trust WisdomTree Emerging Markets Quality Dividend Growth Fund,ETF,SSUS
-DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,ETF,IMCC
 DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,ETF,SSUS
+DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,ETF,IMCC
 DGRW,WisdomTree Trust WisdomTree U.S. Quality Dividend Growth Fund,ETF,SSUS
 DLBL,iPath US Treasury Long Bond Bull ETN,ETN,None
 DLBS,iPath US Treasury Long Bond Bear ETN,ETN,None
@@ -138,8 +139,8 @@ EBIZ,Global X E-commerce,ETF,SSUS
 ECOW,Pacer Emerging Markets Cash Cows 100,ETF,GTSZ
 EDOC,Global X Telemedicine & Digital Health ETF,ETF,SSUS
 EDUT,Global X Education ETF,ETF,GTSZ
-EEMA,iShares MSCI Emerging Markets Asia ETF,ETF,VIRT
 EEMA,iShares MSCI Emerging Markets Asia ETF,ETF,PUND
+EEMA,iShares MSCI Emerging Markets Asia ETF,ETF,VIRT
 EFAS,Global X SuperDividend EAFE,ETF,SSUS
 EMB,iShares J.P. Morgan USD Emerging Markets Bond,ETF,SSUS
 EMB,iShares J.P. Morgan USD Emerging Markets Bond,ETF,FLTU
