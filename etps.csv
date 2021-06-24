@@ -327,8 +327,8 @@ PDEV,Principal U.S. Large-Cap Multi-Factor Core Index,ETF,GTSZ
 PDP,DWA Momentum Portfolio,ETF,VIRT
 PETCZ,Gabelli Pet Parent Fund,NextShares,None
 PEY,High Yield Equity Dividend Achievers Portfolio,ETF,SSUS
-PEZ,DWA Consumer Cyclicals Momentum Portfolio,ETF,VIRT
 PEZ,DWA Consumer Cyclicals Momentum Portfolio,ETF,SSUS
+PEZ,DWA Consumer Cyclicals Momentum Portfolio,ETF,VIRT
 PFF,iShares U.S. Preferred Stock,ETF,CDRG
 PFI,DWA Financial Momentum Portfolio,ETF,VIRT
 PFI,DWA Financial Momentum Portfolio,ETF,IMCC
@@ -343,8 +343,8 @@ PKW,BuyBack Achievers Portfolio,ETF,XGWD
 PLC,Principal U.S. Small-MidCap Multi-Factor Core Index,ETF,JSCA
 PLW,1-30 Laddered Treasury Portfolio,ETF,CDRG
 PMOM,Principal Sustainable Momentum Index,ETF,GTSZ
-PNQI,PowerShares Nasdaq Internet Portfolio,ETF,SSUS
 PNQI,PowerShares Nasdaq Internet Portfolio,ETF,IMCC
+PNQI,PowerShares Nasdaq Internet Portfolio,ETF,SSUS
 POTX,Global X Cannabis,ETF,GTSZ
 PPH,VanEck Vectors Pharmaceutical ETF,ETF,IMCC
 PPH,VanEck Vectors Pharmaceutical ETF,ETF,XGWD
@@ -357,12 +357,12 @@ PSCC,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer
 PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,VIRT
 PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,XGWD
 PSCE,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Energy Portfolio,ETF,VIRT
-PSCF,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Financials Portfolio,ETF,VIRT
 PSCF,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Financials Portfolio,ETF,XGWD
-PSCH,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Health Care Portfolio,ETF,VIRT
+PSCF,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Financials Portfolio,ETF,VIRT
 PSCH,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Health Care Portfolio,ETF,XGWD
-PSCI,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Industrials Portfolio,ETF,XGWD
+PSCH,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Health Care Portfolio,ETF,VIRT
 PSCI,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Industrials Portfolio,ETF,VIRT
+PSCI,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Industrials Portfolio,ETF,XGWD
 PSCM,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Materials Portfolio,ETF,VIRT
 PSCM,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Materials Portfolio,ETF,XGWD
 PSCT,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Information Technology Portfolio,ETF,XGWD
@@ -373,8 +373,8 @@ PSET,Principal Exchange-Traded Funds Principal Price Setters Index ETF,ETF,VIRT
 PSL,DWA Consumer Staples Momentum Portfolio,ETF,XGWD
 PSL,DWA Consumer Staples Momentum Portfolio,ETF,IMCC
 PSM,Principal International Multi-Factor Core Index,ETF,GTSZ
-PTF,DWA Technology Momentum Portfolio,ETF,VIRT
 PTF,DWA Technology Momentum Portfolio,ETF,IMCC
+PTF,DWA Technology Momentum Portfolio,ETF,VIRT
 PTH,DWA Healthcare Momentum Portfolio,ETF,XGWD
 PUI,DWA Utilities Momentum Portfolio,ETF,IMCC
 PUI,DWA Utilities Momentum Portfolio,ETF,VIRT
@@ -422,8 +422,8 @@ SDVY,First Trust SMID Cap Rising Dividend Achievers,ETF,RBCD
 SHLD,VictoryShares Protect America,ETF,RBCD
 SHV,iShares Short Treasury Bond,ETF,JSCA
 SHY,iShares 1-3 Year Treasury Bond,ETF,JSCA
-SKOR,FlexShares Trust FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,JSCA
 SKOR,FlexShares Trust FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,FLTU
+SKOR,FlexShares Trust FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,JSCA
 SKYU,ProShares Ultra Nasdaq Cloud Computing,ETF,VIRT
 SKYY,First Trust ISE Cloud Computing Index Fund,ETF,CDRG
 SLIM,Janus Detroit Street Trust The Obesity ETF,ETF,VIRT
@@ -496,6 +496,7 @@ VYMI,Vanguard Whitehall Funds Vanguard International High Dividend Yield ETF,ETF
 WBND,Western Asset Total Return,ETF,RBCD
 WCBR,WisdomTree Cybersecurity Fund,ETF,FLTU
 WCLD,WisdomTree Cloud Computing Fund,ETF,JSCA
+WGRO,WisdomTree U.S. Growth & Momentum Fund,ETF,SSUS
 WINC,Western Asset Short Duration Income,ETF,JSCA
 WOOD,iShares Global Timber & Forestry ETF,ETF,SSUS
 XT,iShares Exponential Technologies,ETF,JSCA
