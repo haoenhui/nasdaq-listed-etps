@@ -26,6 +26,7 @@ BICK,First Trust Exchange-Traded Fund II First Trust BICK Index Fund,ETF,GTSZ
 BIS,ProShares Trust ProShares UltraShort Nasdaq Biotechnology,ETF,IMCC
 BIS,ProShares Trust ProShares UltraShort Nasdaq Biotechnology,ETF,VIRT
 BJK,VanEck Vectors Gaming,ETF,VIRT
+BKCH,Global X Blockchain ETF,ETF,SSUS
 BLCN,Reality Shares Nasdaq NextGen Economy,ETF,GTSZ
 BMLP,BMO Elkhorn DWA MLP Select Index,ETN,VIRT
 BND,Vanguard Total Bank Market,ETF,JSCA
@@ -107,8 +108,8 @@ DEMZ,DEMZ Political Contributions,ETF,VIRT
 DFVL,iPath US Treasury 5 Year Bull ETN,ETN,None
 DFVS,iPath US Treasury 5 Year Bear ETN,ETN,None
 DGRE,WisdomTree Trust WisdomTree Emerging Markets Quality Dividend Growth Fund,ETF,SSUS
-DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,ETF,IMCC
 DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,ETF,SSUS
+DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,ETF,IMCC
 DGRW,WisdomTree Trust WisdomTree U.S. Quality Dividend Growth Fund,ETF,SSUS
 DLBL,iPath US Treasury Long Bond Bull ETN,ETN,None
 DLBS,iPath US Treasury Long Bond Bear ETN,ETN,None
@@ -139,8 +140,8 @@ EBIZ,Global X E-commerce,ETF,SSUS
 ECOW,Pacer Emerging Markets Cash Cows 100,ETF,GTSZ
 EDOC,Global X Telemedicine & Digital Health ETF,ETF,SSUS
 EDUT,Global X Education ETF,ETF,GTSZ
-EEMA,iShares MSCI Emerging Markets Asia ETF,ETF,VIRT
 EEMA,iShares MSCI Emerging Markets Asia ETF,ETF,PUND
+EEMA,iShares MSCI Emerging Markets Asia ETF,ETF,VIRT
 EFAS,Global X SuperDividend EAFE,ETF,SSUS
 EMB,iShares J.P. Morgan USD Emerging Markets Bond,ETF,SSUS
 EMB,iShares J.P. Morgan USD Emerging Markets Bond,ETF,FLTU
@@ -243,6 +244,7 @@ HEWG,iShares Currency Hedged MSCI Germany,ETF,FLTU
 HFGIC,Hartford Global Impact,NextShares,None
 HLAL,Wahed FTSE USA Shariah,ETF,XGWD
 HNDL,Strategy Shares Nasdaq 7HANDL Index,ETF,GTSZ
+HYDR,Global X Hydrogen,ETF,GTSZ
 HYLS,First Trust Exchange-Traded Fund IV First Trust Tactical High Yield ETF,ETF (Active),SSUS
 HYXE,iShares Trust iShares iBoxx $ High Yield ex Oil & Gas Corporate Bond ETF,ETF,FLTG
 HYZD,WisdomTree Trust WisdomTree BofA Merrill Lynch High Yield Bond Zero Duration Fund,ETF,FLTG
@@ -301,6 +303,7 @@ KBWR,KBW Regional Banking Portfolio,ETF,JSCA
 KBWY,KBW Premium Yield Equity REIT Portfolio,ETF,CDRG
 KEJI,Global X China Disruption,ETF,SSUS
 KRMA,Global X Funds Global X Conscious Companies ETF,ETF,SSUS
+KROP,Global X AgTech & Food Innovation,ETF,GTSZ
 LDEM,iShares ESG MSCI EM Leaders,ETF,JSCA
 LDRI,PowerShares Exchange-Traded Fund Trust II PowerShares LadderRite 0-5 Year Corporate Bond Portfolio,ETF,CDRG
 LDSF,First Trust Low Duration Strategic Focus,ETF,SSUS
@@ -330,8 +333,8 @@ PEY,High Yield Equity Dividend Achievers Portfolio,ETF,SSUS
 PEZ,DWA Consumer Cyclicals Momentum Portfolio,ETF,VIRT
 PEZ,DWA Consumer Cyclicals Momentum Portfolio,ETF,SSUS
 PFF,iShares U.S. Preferred Stock,ETF,CDRG
-PFI,DWA Financial Momentum Portfolio,ETF,VIRT
 PFI,DWA Financial Momentum Portfolio,ETF,IMCC
+PFI,DWA Financial Momentum Portfolio,ETF,VIRT
 PFM,Dividend Achievers Portfolio,ETF,CDRG
 PGJ,Golden Dragon China Portfolio,ETF,VIRT
 PHO,Water Resources Portfolio,ETF,CDRG
@@ -346,16 +349,16 @@ PMOM,Principal Sustainable Momentum Index,ETF,GTSZ
 PNQI,PowerShares Nasdaq Internet Portfolio,ETF,SSUS
 PNQI,PowerShares Nasdaq Internet Portfolio,ETF,IMCC
 POTX,Global X Cannabis,ETF,GTSZ
-PPH,VanEck Vectors Pharmaceutical ETF,ETF,IMCC
 PPH,VanEck Vectors Pharmaceutical ETF,ETF,XGWD
+PPH,VanEck Vectors Pharmaceutical ETF,ETF,IMCC
 PRFZ,PowerShares FTSE RAFI US 1500 Small-Mid Portfolio,ETF,VIRT
 PRN,DWA Industrials Momentum Portfolio,ETF,VIRT
 PRN,DWA Industrials Momentum Portfolio,ETF,SSUS
 PSC,Principal U.S. Small Cap Index,ETF,VIRT
 PSCC,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Staples Portfolio,ETF,VIRT
 PSCC,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Staples Portfolio,ETF,XGWD
-PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,VIRT
 PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,XGWD
+PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,VIRT
 PSCE,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Energy Portfolio,ETF,VIRT
 PSCF,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Financials Portfolio,ETF,VIRT
 PSCF,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Financials Portfolio,ETF,XGWD
