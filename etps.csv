@@ -261,6 +261,7 @@ IBTH,iShares iBonds Dec 2027 Term Treasury,ETF,CDRG
 IBTI,iShares iBonds Dec 2028 Term Treasury,ETF,CDRG
 IBTJ,iShares iBonds Dec 2029 Term Treasury,ETF,CDRG
 IBTK,iShares iBonds Dec 2030 Term Treasury,ETF,CDRG
+IBTL,iShares iBonds Dec 2031 Term Treasury,ETF,CDRG
 ICLN,iShares Global Clean Energy ETF,ETF,VIRT
 IDLB,PowerShares Exchange-Traded Fund Trust II PowerShares FTSE International Low Beta Equal Weight Portfolio,ETF,SSUS
 IEF,iShares 7-10 Year Treasury Bond,ETF,JSCA
@@ -357,17 +358,17 @@ PRN,DWA Industrials Momentum Portfolio,ETF,SSUS
 PSC,Principal U.S. Small Cap Index,ETF,VIRT
 PSCC,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Staples Portfolio,ETF,VIRT
 PSCC,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Staples Portfolio,ETF,XGWD
-PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,XGWD
 PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,VIRT
+PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,XGWD
 PSCE,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Energy Portfolio,ETF,VIRT
 PSCF,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Financials Portfolio,ETF,VIRT
 PSCF,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Financials Portfolio,ETF,XGWD
 PSCH,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Health Care Portfolio,ETF,VIRT
 PSCH,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Health Care Portfolio,ETF,XGWD
-PSCI,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Industrials Portfolio,ETF,VIRT
 PSCI,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Industrials Portfolio,ETF,XGWD
-PSCM,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Materials Portfolio,ETF,XGWD
+PSCI,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Industrials Portfolio,ETF,VIRT
 PSCM,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Materials Portfolio,ETF,VIRT
+PSCM,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Materials Portfolio,ETF,XGWD
 PSCT,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Information Technology Portfolio,ETF,XGWD
 PSCT,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Information Technology Portfolio,ETF,IMCC
 PSCU,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Utilities Portfolio,ETF,VIRT
@@ -382,8 +383,8 @@ PTH,DWA Healthcare Momentum Portfolio,ETF,XGWD
 PUI,DWA Utilities Momentum Portfolio,ETF,VIRT
 PUI,DWA Utilities Momentum Portfolio,ETF,IMCC
 PVAL,Principal Contrarian Value Index,ETF,GTSZ
-PXI,DWA Energy Momentum Portfolio,ETF,SSUS
 PXI,DWA Energy Momentum Portfolio,ETF,XGWD
+PXI,DWA Energy Momentum Portfolio,ETF,SSUS
 PY,Principal Exchange-Traded Funds Principal Shareholder Yield Index ETF,ETF,GTSZ
 PYZ,DWA Basic Materials Momentum Portfolio,ETF,VIRT
 PYZ,DWA Basic Materials Momentum Portfolio,ETF,IMCC
@@ -398,8 +399,8 @@ QQQA,ProShares Nasdaq-100 Dorsey Wright Momentum,ETF,XGWD
 QQQJ,Invesco Nasdaq Next Gen 100,ETF,SSUS
 QQQJ,Invesco Nasdaq Next Gen 100,ETF,XGWD
 QQQM,Invesco Nasdaq 100,ETF,XGWD
-QQQM,Invesco Nasdaq 100,ETF,IMCC
 QQQM,Invesco Nasdaq 100,ETF,SSUS
+QQQM,Invesco Nasdaq 100,ETF,IMCC
 QQQN,VictoryShares Nasdaq Next 50 ETF,ETF,RBCD
 QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,ETF,RBCD
 QTEC,First Trust NASDAQ-100- Technology Index Fund,ETF,RBCD
