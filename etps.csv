@@ -109,10 +109,10 @@ DDIV,First Trust Exchange-Traded Fund VI First Trust RBA Quality Income ETF,ETF,
 DEMZ,DEMZ Political Contributions,ETF,VIRT
 DFVL,iPath US Treasury 5 Year Bull ETN,ETN,None
 DFVS,iPath US Treasury 5 Year Bear ETN,ETN,None
-DGRE,WisdomTree Trust WisdomTree Emerging Markets Quality Dividend Growth Fund,ETF,PUND
 DGRE,WisdomTree Trust WisdomTree Emerging Markets Quality Dividend Growth Fund,ETF,SSUS
-DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,ETF,SSUS
+DGRE,WisdomTree Trust WisdomTree Emerging Markets Quality Dividend Growth Fund,ETF,PUND
 DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,ETF,IMCC
+DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,ETF,SSUS
 DGRW,WisdomTree Trust WisdomTree U.S. Quality Dividend Growth Fund,ETF,SSUS
 DLBL,iPath US Treasury Long Bond Bull ETN,ETN,None
 DLBS,iPath US Treasury Long Bond Bear ETN,ETN,None
@@ -290,8 +290,8 @@ ISDX,Invesco Strategic Developed ex-US,ETF,CDRG
 ISEM,Invesco Strategic Emerging Markets,ETF,CDRG
 ISHG,iShares -3 Year International Treasury Bond ETF,ETF,VIRT
 ISTB,iShares Core 1-5 Year USD Bond,ETF,JSCA
-IUS,Invesco Strategic US,ETF,CDRG
 IUS,Invesco Strategic US,ETF,SSUS
+IUS,Invesco Strategic US,ETF,CDRG
 IUSB,iShares Core Total USD Bond Market,ETF,JSCA
 IUSG,iShares Core S&P U.S. Growth,ETF,XGWD
 IUSS,Invesco Strategic US Small Company,ETF,CDRG
@@ -362,8 +362,8 @@ PRN,DWA Industrials Momentum Portfolio,ETF,SSUS
 PSC,Principal U.S. Small Cap Index,ETF,VIRT
 PSCC,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Staples Portfolio,ETF,VIRT
 PSCC,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Staples Portfolio,ETF,XGWD
-PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,XGWD
 PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,VIRT
+PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,XGWD
 PSCE,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Energy Portfolio,ETF,VIRT
 PSCF,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Financials Portfolio,ETF,VIRT
 PSCF,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Financials Portfolio,ETF,XGWD
@@ -417,8 +417,8 @@ RFAP,First Trust Exchange-Traded Fund III First Trust RiverFront Dynamic Asia Pa
 RFDI,First Trust Exchange-Traded Fund III First Trust RiverFront Dynamic Developed International ETF,ETF (Active),JSCA
 RFEM,First Trust Exchange-Traded Fund III First Trust RiverFront Dynamic Emerging Markets ETF,ETF (Active),JSCA
 RFEU,First Trust Exchange-Traded Fund III First Trust RiverFront Dynamic Europe ETF,ETF (Active),SSUS
-RING,iShares MSCI Global Gold Miners,ETF,PUND
 RING,iShares MSCI Global Gold Miners,ETF,VIRT
+RING,iShares MSCI Global Gold Miners,ETF,PUND
 RNDM,Developed International Equity Select,ETF,SSUS
 RNDV,US Equity Dividend Select,ETF,SSUS
 RNEM,Emerging Markets Equity Select,ETF,SSUS
@@ -434,8 +434,8 @@ SDVY,First Trust SMID Cap Rising Dividend Achievers,ETF,RBCD
 SHLD,VictoryShares Protect America,ETF,RBCD
 SHV,iShares Short Treasury Bond,ETF,JSCA
 SHY,iShares 1-3 Year Treasury Bond,ETF,JSCA
-SKOR,FlexShares Trust FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,JSCA
 SKOR,FlexShares Trust FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,FLTU
+SKOR,FlexShares Trust FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,JSCA
 SKYU,ProShares Ultra Nasdaq Cloud Computing,ETF,VIRT
 SKYY,First Trust ISE Cloud Computing Index Fund,ETF,CDRG
 SLIM,Janus Detroit Street Trust The Obesity ETF,ETF,VIRT
@@ -451,6 +451,7 @@ SOXQ,Invesco Phlx Semiconductor,ETF,VIRT
 SOXX,iShares PHLX Semiconductor ETF,ETF,VIRT
 SPBC,Simplify U.S. Equity PLUS GBTC,ETF,VIRT
 SPQQ,Siren Large Cap Blend Index ETF,ETF,XGWD
+SPRX,Spear Alpha ETF,ETF,XGWD
 SQLV,Legg Mason Small-Cap Quality Value,ETF,RBCD
 SQQQ,ProShares UltraPro Short QQQ,ETF,VIRT
 SRET,Global X Funds Global X SuperDividend REIT ETF,ETF,SSUS
