@@ -160,8 +160,8 @@ EVSTC,Eaton Vance NextShares Trust Eaton Vance Stock NextShares,NextShares,None
 EWEB,Global X Emerging Markets Internet & E-commerce,ETF,SSUS
 EWJE,iShares MSCI Japan Equal Weighted,ETF,CDRG
 EWJV,iShares MSCI Japan Value,ETF,CDRG
-EWZS,iShares MSCI Brazil Small-Cap ETF,ETF,CDRG
 EWZS,iShares MSCI Brazil Small-Cap ETF,ETF,VIRT
+EWZS,iShares MSCI Brazil Small-Cap ETF,ETF,CDRG
 FAAR,First Trust Exchange-Traded Fund VII First Trust Alternative Absolute Return Strategy ETF,ETF (Active),JSCA
 FAB,First Trust Multi Cap Value AlphaDEX Fund,ETF,SSUS
 FAD,First Trust Multi Cap Growth AlphaDEX Fund,ETF,SSUS
@@ -255,8 +255,8 @@ IBTE,iShares iBonds Dec 2024 Term Treasury,ETF,CDRG
 IBTE,iShares iBonds Dec 2024 Term Treasury,ETF,FLTU
 IBTF,iShares iBonds Dec 2025 Term Treasury,ETF,CDRG
 IBTF,iShares iBonds Dec 2025 Term Treasury,ETF,FLTU
-IBTG,iShares iBonds Dec 2026 Term Treasury,ETF,FLTU
 IBTG,iShares iBonds Dec 2026 Term Treasury,ETF,CDRG
+IBTG,iShares iBonds Dec 2026 Term Treasury,ETF,FLTU
 IBTH,iShares iBonds Dec 2027 Term Treasury,ETF,FLTU
 IBTH,iShares iBonds Dec 2027 Term Treasury,ETF,CDRG
 IBTI,iShares iBonds Dec 2028 Term Treasury,ETF,CDRG
@@ -473,6 +473,7 @@ UBND,VictoryShares ESG Core Plus Bond,ETF,JSCA
 UCRD,VictoryShares ESG Corporate Bond,ETF,JSCA
 UCYB,ProShares Ultra Nasdaq Cybersecurity,ETF,VIRT
 UFO,Virtu Americas LLC,ETF,VIRT
+USBF,iShares USD Bond Factor,ETF,JSCA
 USIG,iShares U.S. Credit Bond,ETF (Active),JSCA
 USLB,PowerShares Exchange-Traded Fund Trust II PowerShares Russell 1000 Low Beta Equal Weight Portfolio,ETF,SSUS
 USMC,Principal U.S. Mega-Cap Multi-Factor ETF,ETF,GTSZ
