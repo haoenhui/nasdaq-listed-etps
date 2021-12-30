@@ -98,9 +98,10 @@ CSB,Victory CEMP US Small Cap High Div Volatility Wtd Index ETF,ETF,SSUS
 CSF,Victory CEMP US Discovery Enhanced Volatility Wtd Index ETF,ETF,RBCD
 CSML,IQ Chaikin U.S. Small-Cap,ETF,GTSZ
 CTEC,Global X CleanTech,ETF,GTSZ
-CXSE,WisdomTree Trust WisdomTree China ex-State-Owned Enterprises Fund,ETF,JSCA
 CXSE,WisdomTree Trust WisdomTree China ex-State-Owned Enterprises Fund,ETF,PUND
+CXSE,WisdomTree Trust WisdomTree China ex-State-Owned Enterprises Fund,ETF,JSCA
 DALI,First Trust Dorsey Wright DALI 1,ETF,CDRG
+DAPP,VanEck Vectors Digital Transformation,ETF,CDRG
 DAPP,VanEck Vectors Digital Transformation,ETF,FLTU
 DAX,Recon Capital Series Trust Recon Capital DAX Germany ETF,ETF,VIRT
 DDIV,First Trust Exchange-Traded Fund VI First Trust RBA Quality Income ETF,ETF,CDRG
@@ -116,6 +117,7 @@ DLBL,iPath US Treasury Long Bond Bull ETN,ETN,None
 DLBS,iPath US Treasury Long Bond Bear ETN,ETN,None
 DMXF,iShares ESG Advanced MSCI EAFE,ETF,FLTU
 DRIV,Global X Autonomous & Electric Vehicles,ETF,SSUS
+DSPC,The de-Spac,ETF,FLTG
 DTUL,iPath US Treasury 2 Yr Bull ETN,ETN,None
 DTUS,iPath US Treasury 2 Yr Bear ETN,ETN,None
 DTYL,iPath US Treasury 10 Yr Bull ETN,ETN,None
@@ -141,8 +143,8 @@ EDUT,Global X Education ETF,ETF,GTSZ
 EEMA,iShares MSCI Emerging Markets Asia ETF,ETF,PUND
 EEMA,iShares MSCI Emerging Markets Asia ETF,ETF,VIRT
 EFAS,Global X SuperDividend EAFE,ETF,SSUS
-EMB,iShares J.P. Morgan USD Emerging Markets Bond,ETF,SSUS
 EMB,iShares J.P. Morgan USD Emerging Markets Bond,ETF,FLTU
+EMB,iShares J.P. Morgan USD Emerging Markets Bond,ETF,SSUS
 EMCB,WisdomTree Trust WisdomTree Emerging Markets Corporate Bond Fund,ETF,FLTU
 EMIF,iShares Emerging Markets Infrastructure ETF,ETF,VIRT
 EMXC,iShares MSCI Emerging Markets ex China,ETF,JSCA
@@ -163,12 +165,13 @@ EVSTC,Eaton Vance NextShares Trust Eaton Vance Stock NextShares,NextShares,None
 EWEB,Global X Emerging Markets Internet & E-commerce,ETF,SSUS
 EWJE,iShares MSCI Japan Equal Weighted,ETF,CDRG
 EWJV,iShares MSCI Japan Value,ETF,CDRG
-EWZS,iShares MSCI Brazil Small-Cap ETF,ETF,VIRT
 EWZS,iShares MSCI Brazil Small-Cap ETF,ETF,CDRG
+EWZS,iShares MSCI Brazil Small-Cap ETF,ETF,VIRT
 FAAR,First Trust Exchange-Traded Fund VII First Trust Alternative Absolute Return Strategy ETF,ETF (Active),JSCA
 FAB,First Trust Multi Cap Value AlphaDEX Fund,ETF,SSUS
 FAD,First Trust Multi Cap Growth AlphaDEX Fund,ETF,SSUS
 FALN,iShares Trust iShares Fallen Angels USD Bond ETF,ETF,JSCA
+FATT,Fat Tail Risk,ETF,GTSZ
 FBZ,First Trust Brazil AlphaDEX Fund,ETF,GTSZ
 FCA,First Trust China AlphaDEX Fund,ETF,SSUS
 FCAL,First Trust California Municipal High Income,ETF,GTSZ
@@ -188,6 +191,7 @@ FGM,First Trust Germany AlphaDex Fund,ETF,GTSZ
 FICS,First Trust International Developed Capital Strength,ETF,JSCA
 FID,First Trust S&P International Dividend Aristocrats ETF,ETF,SSUS
 FINX,Global X FinTech Thematic,ETF,SSUS
+FIVR,Strategy Shares Nasdaq 5HANDL Index,ETF,GTSZ
 FIXD,First Trust TCW Opportunistic Fixed Income,ETF,GTSZ
 FJP,First Trust Japan AlphaDEX Fund,ETF,SSUS
 FKU,First Trust United Kingdom AlphaDex Fund,ETF,FBCO
@@ -226,6 +230,7 @@ FYC,First Trust Small Cap Growth AlphaDEX Fund,ETF,XGWD
 FYT,First Trust Small Cap Value AlphaDEX Fund,ETF,XGWD
 FYX,First Trust Small Cap Core AlphaDEX Fund,ETF,FBCO
 GENY,Principal Millennials Index,ETF,GTSZ
+GFGF,Guru Favorite Stocks ETF,ETF,RBCD
 GIGE,SoFi Gig Economy,ETF,GTSZ
 GLDI,"Credit Suisse X-Links Gold Shares Covered Call ETNs due February 2, 2033",ETN,SSUS
 GNMA,iShares GNMA Bond ETF,ETF,VIRT
@@ -243,16 +248,16 @@ HNDL,Strategy Shares Nasdaq 7HANDL Index,ETF,GTSZ
 HYDR,Global X Hydrogen,ETF,GTSZ
 HYLS,First Trust Exchange-Traded Fund IV First Trust Tactical High Yield ETF,ETF (Active),SSUS
 HYXE,iShares Trust iShares iBoxx $ High Yield ex Oil & Gas Corporate Bond ETF,ETF,FLTG
-HYZD,WisdomTree Trust WisdomTree BofA Merrill Lynch High Yield Bond Zero Duration Fund,ETF,PUND
 HYZD,WisdomTree Trust WisdomTree BofA Merrill Lynch High Yield Bond Zero Duration Fund,ETF,FLTG
+HYZD,WisdomTree Trust WisdomTree BofA Merrill Lynch High Yield Bond Zero Duration Fund,ETF,PUND
 IBB,iShares Nasdaq Biotechnology ETF,ETF,XGWD
 IBBJ,Defiance Nasdaq Junior Biotechnology ETF,ETF,XGWD
 IBBQ,Invesco Nasdaq Biotechnology,ETF,XGWD
 IBET,iBET Sports Betting & Gaming,ETF,GTSZ
-IBTA,iShares iBonds Dec 2021 Term Treasury,ETF,CDRG
 IBTA,iShares iBonds Dec 2021 Term Treasury,ETF,FLTU
-IBTB,iShares iBonds Dec 2022 Term Treasury,ETF,FLTU
+IBTA,iShares iBonds Dec 2021 Term Treasury,ETF,CDRG
 IBTB,iShares iBonds Dec 2022 Term Treasury,ETF,CDRG
+IBTB,iShares iBonds Dec 2022 Term Treasury,ETF,FLTU
 IBTD,iShares iBonds Dec 2023 Term Treasury,ETF,CDRG
 IBTD,iShares iBonds Dec 2023 Term Treasury,ETF,FLTU
 IBTE,iShares iBonds Dec 2024 Term Treasury,ETF,CDRG
@@ -293,8 +298,8 @@ ISDX,Invesco Strategic Developed ex-US,ETF,CDRG
 ISEM,Invesco Strategic Emerging Markets,ETF,CDRG
 ISHG,iShares -3 Year International Treasury Bond ETF,ETF,VIRT
 ISTB,iShares Core 1-5 Year USD Bond,ETF,JSCA
-IUS,Invesco Strategic US,ETF,SSUS
 IUS,Invesco Strategic US,ETF,CDRG
+IUS,Invesco Strategic US,ETF,SSUS
 IUSB,iShares Core Total USD Bond Market,ETF,JSCA
 IUSG,iShares Core S&P U.S. Growth,ETF,XGWD
 IUSS,Invesco Strategic US Small Company,ETF,CDRG
@@ -342,8 +347,8 @@ PEY,High Yield Equity Dividend Achievers Portfolio,ETF,SSUS
 PEZ,DWA Consumer Cyclicals Momentum Portfolio,ETF,VIRT
 PEZ,DWA Consumer Cyclicals Momentum Portfolio,ETF,SSUS
 PFF,iShares U.S. Preferred Stock,ETF,CDRG
-PFI,DWA Financial Momentum Portfolio,ETF,IMCC
 PFI,DWA Financial Momentum Portfolio,ETF,VIRT
+PFI,DWA Financial Momentum Portfolio,ETF,IMCC
 PFM,Dividend Achievers Portfolio,ETF,CDRG
 PGJ,Golden Dragon China Portfolio,ETF,VIRT
 PHO,Water Resources Portfolio,ETF,CDRG
@@ -356,14 +361,14 @@ PLW,1-30 Laddered Treasury Portfolio,ETF,CDRG
 PNQI,PowerShares Nasdaq Internet Portfolio,ETF,SSUS
 PNQI,PowerShares Nasdaq Internet Portfolio,ETF,IMCC
 POTX,Global X Cannabis,ETF,GTSZ
-PPH,VanEck Vectors Pharmaceutical ETF,ETF,XGWD
 PPH,VanEck Vectors Pharmaceutical ETF,ETF,IMCC
+PPH,VanEck Vectors Pharmaceutical ETF,ETF,XGWD
 PRFZ,PowerShares FTSE RAFI US 1500 Small-Mid Portfolio,ETF,VIRT
-PRN,DWA Industrials Momentum Portfolio,ETF,SSUS
 PRN,DWA Industrials Momentum Portfolio,ETF,VIRT
+PRN,DWA Industrials Momentum Portfolio,ETF,SSUS
 PSC,Principal U.S. Small Cap Index,ETF,VIRT
-PSCC,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Staples Portfolio,ETF,VIRT
 PSCC,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Staples Portfolio,ETF,XGWD
+PSCC,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Staples Portfolio,ETF,VIRT
 PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,VIRT
 PSCD,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Consumer Discretionary Portfolio,ETF,XGWD
 PSCE,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Energy Portfolio,ETF,VIRT
@@ -375,8 +380,8 @@ PSCI,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Industri
 PSCI,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Industrials Portfolio,ETF,XGWD
 PSCM,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Materials Portfolio,ETF,VIRT
 PSCM,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Materials Portfolio,ETF,XGWD
-PSCT,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Information Technology Portfolio,ETF,IMCC
 PSCT,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Information Technology Portfolio,ETF,XGWD
+PSCT,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Information Technology Portfolio,ETF,IMCC
 PSCU,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Utilities Portfolio,ETF,VIRT
 PSCU,PowerShares Exchange-Traded Fund Trust II PowerShares S&P SmallCap Utilities Portfolio,ETF,XGWD
 PSET,Principal Exchange-Traded Funds Principal Price Setters Index ETF,ETF,VIRT
@@ -407,9 +412,9 @@ QQQA,ProShares Nasdaq-100 Dorsey Wright Momentum,ETF,XGWD
 QQQA,ProShares Nasdaq-100 Dorsey Wright Momentum,ETF,PUND
 QQQJ,Invesco Nasdaq Next Gen 100,ETF,SSUS
 QQQJ,Invesco Nasdaq Next Gen 100,ETF,XGWD
-QQQM,Invesco Nasdaq 100,ETF,XGWD
-QQQM,Invesco Nasdaq 100,ETF,IMCC
 QQQM,Invesco Nasdaq 100,ETF,SSUS
+QQQM,Invesco Nasdaq 100,ETF,IMCC
+QQQM,Invesco Nasdaq 100,ETF,XGWD
 QQQN,VictoryShares Nasdaq Next 50 ETF,ETF,RBCD
 QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,ETF,RBCD
 QRMI,Global X Nasdaq 100 Risk Managed Income,ETF,SSUS
@@ -424,8 +429,8 @@ RFAP,First Trust Exchange-Traded Fund III First Trust RiverFront Dynamic Asia Pa
 RFDI,First Trust Exchange-Traded Fund III First Trust RiverFront Dynamic Developed International ETF,ETF (Active),JSCA
 RFEM,First Trust Exchange-Traded Fund III First Trust RiverFront Dynamic Emerging Markets ETF,ETF (Active),JSCA
 RFEU,First Trust Exchange-Traded Fund III First Trust RiverFront Dynamic Europe ETF,ETF (Active),SSUS
-RING,iShares MSCI Global Gold Miners,ETF,VIRT
 RING,iShares MSCI Global Gold Miners,ETF,PUND
+RING,iShares MSCI Global Gold Miners,ETF,VIRT
 RNDM,Developed International Equity Select,ETF,SSUS
 RNDV,US Equity Dividend Select,ETF,SSUS
 RNEM,Emerging Markets Equity Select,ETF,SSUS
@@ -455,10 +460,12 @@ SNLN,Highland/iBoxx Senior Loan,ETF,VIRT
 SNSR,Global X Internet of Things Thematic,ETF,SSUS
 SNUG,Merlyn.Al Tactical Growth and Income,ETF,GTSZ
 SOCL,Global X Funds Global X Social Media Index ETF,ETF,VIRT
+SOGU,The Short De-SPAC,ETF,FLTG
 SOXQ,Invesco Phlx Semiconductor,ETF,VIRT
 SOXX,iShares PHLX Semiconductor ETF,ETF,VIRT
 SPBC,Simplify U.S. Equity PLUS GBTC,ETF,VIRT
 SPC,CrossingBridge Pre-Merger SPAC ETF,ETF,XGWD
+SPCX,The SPAC and New Issue,ETF,GTSZ
 SPQQ,Siren Large Cap Blend Index ETF,ETF,XGWD
 SQLV,Legg Mason Small-Cap Quality Value,ETF,RBCD
 SQQQ,ProShares UltraPro Short QQQ,ETF,VIRT
@@ -486,6 +493,7 @@ USLB,PowerShares Exchange-Traded Fund Trust II PowerShares Russell 1000 Low Beta
 USMC,Principal U.S. Mega-Cap Multi-Factor ETF,ETF,GTSZ
 USOI,Credit Suisse X-Links Crude Oil Shares Covered Call,ETN,None
 USXF,iShares ESG Advanced MSCI USA,ETF,FLTU
+VBB,Valkyrie Balance Sheet Opportunities ETF,ETF,GTSZ
 VCIT,Vanguard Intermediate-Term Corporate Bond ETF,ETF,SSUS
 VCLT,Vanguard Long-Term Corporate Bond ETF,ETF,SSUS
 VCSH,Vanguard Short-Term Corporate Bond ETF,ETF,SSUS
@@ -526,3 +534,4 @@ WOOD,iShares Global Timber & Forestry ETF,ETF,SSUS
 XT,iShares Exponential Technologies,ETF,JSCA
 YLCO,Global X Funds Global X Yieldco Index ETF,ETF,SSUS
 YLDE,ClearBridge Dividend Strategy ESG,ETF,SSUS
+ZGEN,The Generation Z,ETF,GTSZ
