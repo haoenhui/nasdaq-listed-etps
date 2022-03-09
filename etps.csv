@@ -28,8 +28,8 @@ BJK,VanEck Vectors Gaming,ETF,VIRT
 BKCH,Global X Blockchain ETF,ETF,SSUS
 BLCN,Reality Shares Nasdaq NextGen Economy,ETF,GTSZ
 BND,Vanguard Total Bank Market,ETF,JSCA
-BNDW,Vanguard Total World Bond,ETF,JSCA
 BNDW,Vanguard Total World Bond,ETF,SSUS
+BNDW,Vanguard Total World Bond,ETF,JSCA
 BNDX,Vanguard Charlotte Funds Vanguard Total International Bond ETF,ETF,JSCA
 BOTZ,Global X Robotics & Artificial Intelligence Thematic,ETF,SSUS
 BSBE,Invesco BulletShares 2022 USD Emerging Markets Debt,ETF,JSCA
@@ -93,6 +93,7 @@ CTEC,Global X CleanTech,ETF,GTSZ
 CXSE,WisdomTree Trust WisdomTree China ex-State-Owned Enterprises Fund,ETF,JSCA
 CXSE,WisdomTree Trust WisdomTree China ex-State-Owned Enterprises Fund,ETF,PUND
 DALI,First Trust Dorsey Wright DALI 1,ETF,CDRG
+DAM,VanEck Digital Asset Mining,ETF,CDRG
 DAPP,VanEck Vectors Digital Transformation,ETF,CDRG
 DAPP,VanEck Vectors Digital Transformation,ETF,FLTU
 DAX,Recon Capital Series Trust Recon Capital DAX Germany ETF,ETF,VIRT
@@ -125,8 +126,8 @@ EBIZ,Global X E-commerce,ETF,SSUS
 ECOW,Pacer Emerging Markets Cash Cows 100,ETF,GTSZ
 EDOC,Global X Telemedicine & Digital Health ETF,ETF,SSUS
 EDUT,Global X Education ETF,ETF,GTSZ
-EEMA,iShares MSCI Emerging Markets Asia ETF,ETF,VIRT
 EEMA,iShares MSCI Emerging Markets Asia ETF,ETF,PUND
+EEMA,iShares MSCI Emerging Markets Asia ETF,ETF,VIRT
 EFAS,Global X SuperDividend EAFE,ETF,SSUS
 EMB,iShares J.P. Morgan USD Emerging Markets Bond,ETF,SSUS
 EMB,iShares J.P. Morgan USD Emerging Markets Bond,ETF,FLTU
@@ -135,8 +136,8 @@ EMIF,iShares Emerging Markets Infrastructure ETF,ETF,VIRT
 EMXC,iShares MSCI Emerging Markets ex China,ETF,JSCA
 EMXF,iShares ESG Advanced MSCI EM,ETF,FLTU
 ENZL,iShares MSCI New Zealand Capped ETF,ETF,VIRT
-EQRR,ProShares Equities for Rising Rates,ETF,SGAS
 EQRR,ProShares Equities for Rising Rates,ETF,IMCC
+EQRR,ProShares Equities for Rising Rates,ETF,SGAS
 ESGD,iShares Trust iShares MSCI EAFE ESG Select ETF,ETF,JSCA
 ESGE,"iShares, Inc. iShares MSCI EM ESG Select ETF",ETF,JSCA
 ESGU,iShares MSCI USA ESG Optimized ETF,ETF,JSCA
@@ -149,8 +150,8 @@ EVSTC,Eaton Vance NextShares Trust Eaton Vance Stock NextShares,NextShares,None
 EWEB,Global X Emerging Markets Internet & E-commerce,ETF,SSUS
 EWJE,iShares MSCI Japan Equal Weighted,ETF,CDRG
 EWJV,iShares MSCI Japan Value,ETF,CDRG
-EWZS,iShares MSCI Brazil Small-Cap ETF,ETF,CDRG
 EWZS,iShares MSCI Brazil Small-Cap ETF,ETF,VIRT
+EWZS,iShares MSCI Brazil Small-Cap ETF,ETF,CDRG
 FAAR,First Trust Exchange-Traded Fund VII First Trust Alternative Absolute Return Strategy ETF,ETF (Active),JSCA
 FAB,First Trust Multi Cap Value AlphaDEX Fund,ETF,SSUS
 FAD,First Trust Multi Cap Growth AlphaDEX Fund,ETF,SSUS
